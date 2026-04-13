@@ -67,7 +67,7 @@ print(df.head())
 | creator.fish  | available | $19.99    | $56.99        | 70             | 45     | 7      | name.com                                                  |
 | now.fish      | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC                                          |
 | ace.fish      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                                  |
-| forge.fish    | available | $19.99    | $56.99        | 62             | 45     | 5      | name.com                                                  |
+| forge.fish    | available | $19.99    | $56.99        | 62             | 44     | 5      | name.com                                                  |
 | news.fish     | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 38                                         |
 | trade.fish    | premium   | $42.90    | $42.90        | 116            | 50     | 5      | namecheap                                                 |
 | pop.fish      | available | $19.99    | $56.99        | 82             | 43     | 3      | name.com                                                  |
@@ -80,10 +80,10 @@ print(df.head())
 | open.fish     | resell    | —         | —             | 106            | 60     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | security.fish | premium   | $85.80    | $85.80        | 70             | 49     | 8      | namecheap                                                 |
 | service.fish  | available | $59.98    | —             | 70             | 41     | 7      | namecheap                                                 |
-| free.fish     | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC                                               |
-| creative.fish | premium   | $42.90    | $42.90        | 92             | 46     | 8      | namecheap                                                 |
-| unity.fish    | available | $19.99    | $56.99        | 70             | 40     | 5      | name.com                                                  |
 | cloud.fish    | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC                                          |
+| creative.fish | premium   | $42.90    | $42.90        | 92             | 45     | 8      | namecheap                                                 |
+| unity.fish    | available | $19.99    | $56.99        | 70             | 40     | 5      | name.com                                                  |
+| the.fish      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
