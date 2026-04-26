@@ -1,22 +1,22 @@
-# Available .FISH One-Word Domains (9,038)
+# Available .FISH One-Word Domains (11,407)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C038%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C038%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C407%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fish one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fish one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,407 domains** on the canonical page below.
 
-**Public extract:** 9,038 rows · **Live catalog:** 9,038 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,407 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fish`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FISH one-word domain 
 
 ### Files
 
-- `fish.csv` — public CSV extract (9,038 rows)
-- `fish.json` — public JSON extract (9,038 rows)
+- `fish.csv` — public CSV extract (1,000 rows)
+- `fish.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| creator.fish  | available | $19.99    | $56.99        | 70             | 45     | 7      | name.com                                                  |
-| now.fish      | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC                                          |
-| ace.fish      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                                  |
-| forge.fish    | available | $19.99    | $56.99        | 62             | 44     | 5      | name.com                                                  |
-| news.fish     | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 38                                         |
-| trade.fish    | premium   | $42.90    | $42.90        | 116            | 50     | 5      | namecheap                                                 |
-| pop.fish      | available | $19.99    | $56.99        | 82             | 43     | 3      | name.com                                                  |
-| web.fish      | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC                                              |
-| life.fish     | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                                                 |
-| strategy.fish | available | $59.98    | —             | 74             | 43     | 8      | namecheap                                                 |
-| code.fish     | resell    | —         | —             | 72             | 61     | 4      | Sav.com, LLC                                              |
-| design.fish   | premium   | $123.75   | $123.75       | 108            | 49     | 6      | name.com                                                  |
-| agile.fish    | available | $19.99    | $56.99        | 92             | 41     | 5      | name.com                                                  |
-| open.fish     | resell    | —         | —             | 106            | 60     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| security.fish | premium   | $85.80    | $85.80        | 70             | 49     | 8      | namecheap                                                 |
-| service.fish  | available | $59.98    | —             | 70             | 41     | 7      | namecheap                                                 |
-| cloud.fish    | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC                                          |
-| creative.fish | premium   | $42.90    | $42.90        | 92             | 45     | 8      | namecheap                                                 |
-| unity.fish    | available | $19.99    | $56.99        | 70             | 40     | 5      | name.com                                                  |
-| the.fish      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC                                              |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| shortcuts.fish   | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
+| tuna.fish        | resell    | —         | —             | 74             | 3      | 9      | GoDaddy.com, LLC |
+| cars.fish        | premium   | $82.50    | —             | 66             | 47     | 4      | name.com         |
+| tokens.fish      | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
+| events.fish      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| teams.fish       | available | $19.99    | —             | 62             | 32     | 5      | name.com         |
+| partners.fish    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| inspiration.fish | available | $19.99    | —             | 88             | 30     | 11     | name.com         |
+| letsgo.fish      | premium   | $1,000    | —             | 57             | 31     | 7      | name.com         |
+| rewards.fish     | available | $19.99    | —             | 62             | 30     | 7      | name.com         |
+| photos.fish      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com         |
+| spaces.fish      | available | $19.99    | —             | 54             | 30     | 6      | name.com         |
+| systems.fish     | premium   | $82.50    | —             | 46             | 27     | 7      | name.com         |
+| popup.fish       | available | $19.99    | —             | 84             | 29     | 6      | name.com         |
+| loans.fish       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
+| heroes.fish      | available | $19.99    | —             | 68             | 29     | 6      | name.com         |
+| boats.fish       | premium   | $250      | —             | 52             | 24     | 5      | name.com         |
+| blocks.fish      | available | $19.99    | —             | 53             | 29     | 6      | name.com         |
+| watches.fish     | premium   | $82.50    | —             | 84             | 19     | 7      | name.com         |
+| doctors.fish     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,038-row public sample | 9,038 live domains                               |
+| 1,000-row public sample | 11,407 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
