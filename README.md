@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fish one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,982 domains · **Median ask:** $26.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fish`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | tokens.fish      | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
 | events.fish      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
 | teams.fish       | available | $19.99    | —             | 62             | 32     | 5      | name.com         |
-| partners.fish    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
-| inspiration.fish | available | $19.99    | —             | 88             | 30     | 11     | name.com         |
-| letsgo.fish      | premium   | $1,000    | —             | 57             | 31     | 7      | name.com         |
+| partners.fish    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com         |
 | spaces.fish      | available | $19.99    | —             | 54             | 30     | 6      | name.com         |
+| letsgo.fish      | premium   | $1,000    | —             | 57             | 31     | 7      | name.com         |
+| inspiration.fish | available | $19.99    | —             | 88             | 27     | 11     | name.com         |
 | photos.fish      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com         |
 | doctors.fish     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
 | systems.fish     | premium   | $82.50    | —             | 46             | 27     | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
