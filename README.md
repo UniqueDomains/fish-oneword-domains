@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .fish one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,982 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,982 domains · **Median ask:** $26.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,982 domains · **Median ask:** $25.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/fish`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/fish`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FISH one-word domain 
 
 ### Files
 
-- `fish.csv` — public CSV extract (1,000 rows)
-- `fish.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fish.csv`, public CSV extract (1,000 rows)
+- `fish.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.fish   | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
-| tuna.fish        | resell    | —         | —             | 74             | 3      | 9      | GoDaddy.com, LLC |
-| cars.fish        | premium   | $82.50    | —             | 66             | 47     | 4      | name.com         |
-| tokens.fish      | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
-| events.fish      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
-| teams.fish       | available | $19.99    | —             | 62             | 32     | 5      | name.com         |
-| partners.fish    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com         |
-| spaces.fish      | available | $19.99    | —             | 54             | 30     | 6      | name.com         |
-| letsgo.fish      | premium   | $1,000    | —             | 57             | 31     | 7      | name.com         |
-| inspiration.fish | available | $19.99    | —             | 88             | 27     | 11     | name.com         |
-| photos.fish      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com         |
-| doctors.fish     | available | $19.99    | —             | 56             | 26     | 7      | name.com         |
-| systems.fish     | premium   | $82.50    | —             | 46             | 27     | 7      | name.com         |
-| pops.fish        | available | $19.99    | —             | 74             | 24     | 4      | name.com         |
-| loans.fish       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
-| reports.fish     | available | $19.99    | —             | 58             | 24     | 7      | name.com         |
-| coupons.fish     | premium   | $242      | $242          | 52             | 24     | 7      | namesilo         |
-| echoes.fish      | available | $19.99    | —             | 56             | 24     | 6      | name.com         |
-| watches.fish     | premium   | $82.50    | —             | 84             | 19     | 7      | name.com         |
-| rekt.fish        | available | $19.99    | —             | 40             | 24     | 4      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| age.fish       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| talk.fish      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| bro.fish       | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                    |
+| ale.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| virtually.fish | resell    | —         | —             | medium         | low    | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| coy.fish       | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com                                    |
+| ana.fish       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| cry.fish       | premium   | $82.50    | —             | high           | low    | 3      | name.com                                    |
+| atp.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| dry.fish       | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap                                   |
+| des.fish       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| gym.fish       | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap                                   |
+| die.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| ing.fish       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
+| fig.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| kid.fish       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| flu.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| moi.fish       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
+| hum.fish       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| rod.fish       | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .fish domains. The set ranges from broad dictionary words like yard.fish and news.fish to more expressive choices like profound.fish and hotshot.fish. For founders, the main question is whether the word is strong enough to offset the narrower recognition of .fish. For investors, the key check is whether the ask leaves room for resale despite limited mainstream liquidity. With a median ask of 26.50, price is accessible, but extension fit matters more than raw cost. Favor words that are easy to say, easy to recall, and clearly matched to fishing, seafood, aquatic content, or a deliberate brand angle.
+This list covers 11,982 available .fish domain names, each built from a single word or short phrase such as Apples.fish, RumCake.fish, or JetBlack.fish. The median asking price sits near $26, making most entries accessible for quick evaluation. Because .fish is a niche extension, availability stays high across food, lifestyle, and playful brand names, giving founders and investors a wide pool of ownable options to compare before committing to a purchase.
 
-- Prioritize simple words with clear meaning and recall
-- Check whether the word fits .fish naturally or awkwardly
-- Low ask can help, but niche TLD risk still matters
-- Avoid words that may invite trademark conflicts
+- 11,982 available one-word .fish domains across playful themes
+- Median asking price near $26 for most listings
+- Examples include Apples.fish, JetBlack.fish, and Bonvoyage.fish
+- Updated daily to reflect current listings and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
