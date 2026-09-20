@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fish one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,670 domains · **Median ask:** $28.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/fish`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| correct.fish   | available | $19.99    | $56.99        | high           | low    | 7      | name.com                                    |
 | age.fish       | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                    |
 | talk.fish      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
 | bro.fish       | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                    |
@@ -84,6 +83,7 @@ print(df.head())
 | flu.fish       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
 | moi.fish       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
 | hum.fish       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| rod.fish       | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FISH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
