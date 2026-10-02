@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 666c9e62-b46b-4411-a5e7-3e2795a212e6,chandra.fish,available,44.49,44.49,medium,low,7,namesilo,,,28/09/2026 08:00
 409baa15-8eca-4d95-b6fc-2a4ac58ab6d6,relaxant.fish,available,44.49,44.49,high,low,8,namesilo,,,09/09/2026 13:22
+88fe2588-5c3d-491e-b1c0-9fe22b575229,mancha.fish,available,36.43,36.43,medium,low,6,spaceship,,,01/10/2026 17:40
 3f04de18-e0aa-4fb8-a6b9-fe1e5af3f125,arame.fish,available,46.98,59.98,medium,low,5,namecheap,,,19/09/2026 23:56
 cf574316-27b3-4e5f-b5c8-033dae57f7e6,preferred.fish,available,14.99,56.99,high,low,9,name.com,,,09/08/2026 17:53
 8a8e7a5c-3f2d-4f16-9c23-c7a4d850a8c9,hannukah.fish,available,34.2,34.2,medium,low,8,cloudflare,,,29/09/2026 08:07
@@ -16,6 +17,7 @@ d2cb744e-dd6f-44ba-a1b1-f7558e50a130,noon.fish,available,46.98,59.98,high,low,4,
 877250bc-8648-4c9b-bbfc-8e91221e352a,perce.fish,available,36.43,36.43,medium,low,5,spaceship,,,30/09/2026 12:29
 bd80e21b-1bc8-42dd-9525-fbf64c9ad27b,aphotic.fish,available,14.99,56.99,medium,low,7,name.com,,,05/08/2026 23:37
 74ca3454-5340-4372-bf79-6fc6dcf0b92d,coquettish.fish,available,14.99,56.99,medium,low,10,name.com,,,13/08/2026 00:44
+534d1613-8012-4c24-a04a-eebb27135f41,newhouse.fish,available,34.2,34.2,high,low,8,cloudflare,,,02/10/2026 01:30
 fec6b311-8544-4e84-b4eb-08b4511718ac,jobless.fish,available,14.99,56.99,medium,low,7,name.com,,,22/08/2026 13:32
 e9096aa1-7f0e-4f63-a9f0-085e5669ebd9,aluminum.fish,available,44.49,44.49,high,low,8,namesilo,,,18/09/2026 00:21
 4240a1d9-61dd-4ca4-8ebf-87744ff35fe0,affirmation.fish,available,46.98,59.98,high,low,11,namecheap,,,16/09/2026 08:52
@@ -25,6 +27,7 @@ d079d7f1-bf66-4b5c-a94c-8e947efe0a8b,atherton.fish,available,8.24,36.6,medium,lo
 47e8a763-6052-426e-bb53-a71e802a446e,doings.fish,available,44.49,44.49,medium,low,6,namesilo,,,23/09/2026 03:17
 141c103a-236a-41fb-a3ac-1dde7895fada,ring.fish,available,36.43,36.43,high,low,4,spaceship,,,28/09/2026 21:16
 cf8f22f0-401d-49f8-909d-63b9a942f2ac,higher.fish,available,36.43,36.43,high,low,6,spaceship,,,01/10/2026 02:01
+bf17381a-ba95-4948-a4ef-31c02529d0ed,coils.fish,available,44.49,44.49,medium,low,5,namesilo,,,02/10/2026 03:31
 7ca6e2fa-c59d-4bef-abd6-4ef00a011447,indelibly.fish,available,44.49,44.49,medium,low,9,namesilo,,,15/09/2026 07:53
 ccd749d0-637e-45c8-b3dc-eff8ab25f391,turmoil.fish,available,34.2,34.2,high,low,7,cloudflare,,,29/09/2026 19:12
 ef115d5c-a389-4eea-a512-55836d865b9f,racine.fish,available,36.43,36.43,high,low,6,spaceship,,,28/09/2026 02:12
@@ -58,7 +61,7 @@ c90a24b2-f8ea-48ca-8f3f-65315b54d253,promotes.fish,available,44.49,44.49,medium,
 8030bae2-21f3-4800-a646-823850a08698,accrual.fish,available,44.49,44.49,medium,low,7,namesilo,,,16/09/2026 23:14
 339529b2-2b64-4479-b0ff-9b688d31168b,incisively.fish,available,44.49,44.49,medium,low,10,namesilo,,,15/09/2026 07:42
 c7e001c8-78e7-46a5-baed-d304c767d233,foyer.fish,available,44.49,44.49,high,low,5,namesilo,,,19/09/2026 12:45
-9d7f6932-4241-4ed3-b4cd-480d497c80a2,disposed.fish,available,19.99,,high,low,8,name.com,,,
+9d7f6932-4241-4ed3-b4cd-480d497c80a2,disposed.fish,available,36.43,36.43,high,low,8,spaceship,,,01/10/2026 17:48
 d9db5974-7a8d-4336-a3c4-68f949f187f0,planned.fish,available,46.98,59.98,high,low,7,namecheap,,,21/09/2026 22:06
 81f08672-b324-4ec8-81c6-d845953300dc,amputee.fish,available,44.49,44.49,medium,low,7,namesilo,,,18/09/2026 23:54
 43ad486f-5e77-4e0e-8c02-d71dba7b39d7,tabby.fish,available,44.49,44.49,high,low,5,namesilo,,,23/09/2026 09:31
@@ -77,6 +80,7 @@ cd4fc04a-fc25-457b-9ae7-a3aa61f13866,sunshine.fish,available,14.99,56.99,high,lo
 f8b4b0bd-e981-4a1b-828a-982426fe0430,oiled.fish,available,44.49,44.49,medium,low,5,namesilo,,,04/09/2026 01:49
 73ec7d18-300d-404f-8afd-b98c55fb30d7,entrusted.fish,available,44.49,44.49,medium,low,9,namesilo,,,29/09/2026 16:07
 e739ea76-ee91-4911-9e78-b8afc2201223,presenting.fish,available,44.49,44.49,medium,low,10,namesilo,,,28/09/2026 17:29
+592976c6-f4d2-402e-ad19-a519d73d7449,macros.fish,available,44.49,44.49,medium,low,6,namesilo,,,02/10/2026 03:27
 9638cd96-a688-469b-aead-f8f5ecdb6ab6,achaean.fish,available,14.99,56.99,medium,low,7,name.com,,,
 ad3eb9f1-ce33-40b0-a30a-bda39de9073f,plunge.fish,available,46.98,59.98,high,low,6,namecheap,,,10/09/2026 19:52
 109eae7e-922e-4fbf-995d-41e0a22762c6,works.fish,premium,128.7,128.7,high,low,5,namecheap,,,24/09/2026 21:13
@@ -112,6 +116,7 @@ a5c6195e-587d-4e5b-95dd-304dee72f6af,comp.fish,available,46.98,59.98,high,low,4,
 3a9cfbba-548c-45cd-abdf-538f5cad6a23,effected.fish,available,14.99,56.99,medium,low,8,name.com,,,15/08/2026 14:18
 38135b53-8eea-42e5-a0e7-aecfea1e5047,aids.fish,available,36.43,36.43,medium,low,4,spaceship,,,28/09/2026 17:52
 eb5166db-9a20-48bf-8872-24d4411b9ace,becoming.fish,available,14.99,56.99,high,low,8,name.com,,,09/08/2026 06:08
+de496681-9687-4bfd-93a4-9301ffdc191f,nests.fish,available,8.24,36.6,medium,low,5,dynadot,,,02/10/2026 02:53
 6603d2c1-062a-412e-8e3f-35f6f5c54d71,classifier.fish,available,8.24,36.6,high,low,10,dynadot,,,01/10/2026 01:28
 c0ef63e9-23a4-4d22-adcc-d04b8cec64f3,queen.fish,available,44.49,44.49,high,low,5,namesilo,,,27/09/2026 09:07
 c9b7c311-ff4a-48ab-a3c6-0393d9a6adb5,truculent.fish,available,46.98,59.98,medium,low,9,namecheap,,,11/09/2026 20:29
@@ -121,11 +126,14 @@ e91507a5-12f7-4a03-a187-a32639ecb0d9,rocambole.fish,available,46.98,59.98,medium
 90bf3f9b-c719-4e05-a9de-473a55b004ff,aery.fish,available,14.99,56.99,high,low,4,name.com,,,
 e50dbba9-c81c-4dc2-827d-f4cafe8eb61d,available.fish,available,44.49,44.49,high,low,9,namesilo,,,22/09/2026 14:22
 53e2d6f6-e970-4707-ae5c-923278d4942a,selected.fish,available,36.43,36.43,high,low,8,spaceship,,,27/09/2026 19:50
+fd8a7cae-54c0-4697-9c46-e4c36122cbcb,daniela.fish,available,44.49,44.49,medium,low,7,namesilo,,,02/10/2026 01:34
 5a62e87a-4ad8-4713-b6d5-767248ddb346,atrazine.fish,available,44.49,44.49,medium,low,8,namesilo,,,21/09/2026 00:37
 fbee2273-80aa-4c72-9980-a08efa6d3ac1,dinky.fish,available,14.99,56.99,medium,low,5,name.com,,,14/08/2026 08:14
 de5e604b-5c1e-4e21-9123-f5e2a5f0fc71,berlage.fish,available,44.49,44.49,medium,low,7,namesilo,,,23/09/2026 09:36
 6fe8f9cd-9ef0-41e7-8f3b-4c8837516462,approximate.fish,available,44.49,44.49,high,low,11,namesilo,,,29/09/2026 08:31
 799bbf6a-8028-42b3-bc06-782c5c7f0cbb,insert.fish,available,44.49,44.49,high,low,6,namesilo,,,24/09/2026 20:42
+cbc5dfd4-eb17-42a0-add6-8d46561e2933,writ.fish,available,36.43,36.43,high,low,4,spaceship,,,02/10/2026 05:32
+26cd197b-3dc3-423c-bcef-b59cc66b2ed7,ramesh.fish,available,34.2,34.2,medium,low,6,cloudflare,,,02/10/2026 00:05
 640d9826-a314-4ed8-9a0c-86fe27a4b9ec,alcaeus.fish,available,44.49,44.49,medium,low,7,namesilo,,,18/09/2026 03:40
 fe28677c-e7c2-46e7-a60d-a5ffa22a9b6b,sent.fish,available,44.49,44.49,high,low,4,namesilo,,,19/09/2026 16:10
 d21c2f70-db55-46fa-beb4-e94631c82948,buchan.fish,available,36.43,36.43,medium,low,6,spaceship,,,30/09/2026 13:55
@@ -157,11 +165,13 @@ d3014acf-0696-4fc8-adf3-2b4af1458916,deserving.fish,available,14.99,56.99,high,l
 932219cd-7e55-420d-bc83-f434dccc351f,unaltered.fish,available,14.99,56.99,medium,low,9,name.com,,,12/09/2026 00:30
 e398e45d-4e6f-448c-9a32-fd4c4e49b651,anita.fish,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 15:32
 d0dd3271-f896-43d7-af13-3572775084fe,assembled.fish,available,44.49,44.49,medium,low,9,namesilo,,,28/09/2026 23:20
+7a1e38ac-0496-432a-a156-d76c37fe0a5c,munn.fish,available,36.43,36.43,medium,low,4,spaceship,,,01/10/2026 11:33
 e5b96ac9-1b2a-42f3-9861-8e577ec0e494,aphrodite.fish,available,44.49,44.49,high,low,9,namesilo,,,19/09/2026 17:15
 7ceb7c1e-083e-463e-bab4-285d96467d3d,populous.fish,available,44.49,44.49,high,low,8,namesilo,,,08/09/2026 23:57
 0a7eaa6a-cdc7-4677-9704-d7d054433a5e,stepson.fish,available,44.49,44.49,high,low,7,namesilo,,,30/09/2026 12:01
 e755ddf5-aeab-4d16-b16d-bef7ebbbc1cb,eating.fish,premium,242,242,high,low,6,namesilo,,,08/09/2026 13:35
 04df1402-3adb-4706-9f71-dcfdb5d2df8c,ult.fish,available,14.99,56.99,high,low,3,name.com,,,11/09/2026 22:48
+efc96128-4d5e-4328-a81e-3adc2fd85b5b,combs.fish,available,34.2,34.2,high,low,5,cloudflare,,,02/10/2026 00:48
 6f310612-ccbe-4c30-af6e-dd9fb645513c,unshackled.fish,available,44.49,44.49,medium,low,10,namesilo,,,12/09/2026 04:58
 8bbc9d6f-59a8-4645-99e1-5dfe7814df76,cmc.fish,available,36.43,36.43,high,low,3,spaceship,,,29/09/2026 21:38
 6d596e71-0e3f-4d4f-91f6-73c37dbd5ca0,atheneum.fish,available,44.49,44.49,medium,low,8,namesilo,,,20/09/2026 20:41
@@ -179,15 +189,18 @@ fc0f454e-5443-4f0a-896b-5b4799594924,torquay.fish,premium,,,medium,low,7,,,,30/0
 76d4ca12-5964-478b-932a-fbbe9f8b0ce7,strip.fish,available,46.98,59.98,high,low,5,namecheap,,,24/09/2026 05:53
 8eccfa29-cb8a-4fbf-bf44-1820fd563b4f,saudi.fish,premium,118.8,118.8,high,low,5,namesilo,,,09/09/2026 21:58
 eb282ab5-5ac5-444a-9a1c-e2def3ec9dec,exilic.fish,available,14.99,56.99,medium,low,6,name.com,,,17/08/2026 17:19
-05eacecb-f09b-4855-9601-d532f882479a,californian.fish,available,19.99,,high,low,11,name.com,,,
+05eacecb-f09b-4855-9601-d532f882479a,californian.fish,available,34.2,34.2,high,low,11,cloudflare,,,01/10/2026 05:38
 6f874828-ef61-4c41-9a3d-c1c308aa2d8a,repair.fish,premium,242,242,high,low,6,namesilo,,,27/09/2026 03:25
 d8de9326-aeda-4bfa-bbe2-5e2902d7aebe,auriferous.fish,available,44.49,44.49,medium,low,10,namesilo,,,22/09/2026 13:02
 7540faa2-f81f-4e23-952a-b1dc6c0cd630,reversely.fish,available,44.49,44.49,medium,low,9,namesilo,,,15/09/2026 23:37
 c1a74cc9-b944-4ad9-8a2c-87cf6a302cc2,jules.fish,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 15:01
+89a656da-749f-4721-ac4b-e77711eb4407,jethro.fish,available,44.49,44.49,medium,low,6,namesilo,,,01/10/2026 08:34
 c4aa7871-6fd6-4a34-8800-c729886a8e10,devours.fish,available,44.49,44.49,low,low,7,namesilo,,,21/09/2026 08:47
 e1feeee7-e375-4397-8eea-d1c5fc9574c0,grandchildren.fish,available,19.99,56.99,medium,low,13,name.com,,,
+6a62e095-3b4d-45b0-a27d-5a825bb804c9,confederacy.fish,available,46.98,59.98,medium,low,11,namecheap,,,01/10/2026 22:53
 6822dab9-7072-4b2f-a577-ae3cf4298523,mentally.fish,available,14.99,56.99,medium,low,8,name.com,,,15/09/2026 14:13
 377e9521-38ca-470c-a063-3ab430aea25c,banca.fish,available,36.43,36.43,high,low,5,spaceship,,,01/10/2026 04:38
+c5019061-3220-406a-b2ff-d3c43460e67f,trainers.fish,available,44.49,44.49,medium,low,8,namesilo,,,02/10/2026 02:12
 786edcba-7c6a-4e00-bcc6-2e1b2fe1777c,hillsborough.fish,available,36.43,36.43,medium,low,12,spaceship,,,28/09/2026 07:56
 fe4b277d-33b2-442b-88e8-eff2c404f83a,lvi.fish,available,14.99,56.99,medium,low,3,name.com,,,
 f50a8be4-b40b-4e93-8627-875b0e310263,symbolic.fish,available,14.99,56.99,high,low,8,name.com,,,16/08/2026 09:31
@@ -230,6 +243,7 @@ b75dc686-b2ba-4263-8173-1c43c02a0463,adapid.fish,available,46.98,59.98,medium,lo
 d51e96ac-0ce7-4a5e-bcf3-4c89860ddb6e,sculptor.fish,available,34.2,34.2,medium,low,8,cloudflare,,,30/09/2026 02:48
 d99323bf-d843-4cfd-96a1-777cc551640b,acervulus.fish,available,14.99,56.99,medium,low,9,name.com,,,16/09/2026 23:44
 29658b23-a7b2-4b9f-bf8b-520544a87cfa,horsehead.fish,available,44.49,44.49,medium,low,9,namesilo,,,20/09/2026 21:40
+ba1b93e3-0170-4594-b983-44f9fab8654c,lawrenceville.fish,available,8.24,36.6,medium,low,13,dynadot,,,02/10/2026 00:56
 e3da8c87-3f61-4267-aa4e-1216e6bf26da,cutaneous.fish,available,14.99,56.99,medium,low,9,name.com,,,13/08/2026 12:54
 72e20ca0-0bb3-4ca8-b894-f91ce0ba15cd,snobby.fish,available,14.99,56.99,medium,low,6,name.com,,,12/08/2026 11:23
 bdc938e0-dbd3-49f7-8219-4c0e16897036,studded.fish,available,44.49,44.49,medium,low,7,namesilo,,,10/09/2026 22:57
@@ -237,16 +251,20 @@ ce4bcc01-9891-4296-9c39-7521b435ab02,cruel.fish,available,46.98,59.98,high,low,5
 13b6bcf1-27fc-45d4-b031-474db1d9cafb,recyclable.fish,available,44.49,44.49,high,low,10,namesilo,,,09/09/2026 11:31
 e53a38d4-c1b8-4300-a7fa-254b708a5229,ironlike.fish,available,14.99,56.99,medium,low,8,name.com,,,22/08/2026 10:10
 9200d1f8-76dd-477d-8b67-d8f56b94ed8e,laptop.fish,available,36.43,36.43,high,low,6,spaceship,,,30/09/2026 02:07
+490c2bea-f92e-465e-a3ba-4da8be23fb2b,mayne.fish,available,44.49,44.49,high,low,5,namesilo,,,01/10/2026 07:26
+bb336c4a-3591-4092-b088-751552c0bdb3,inhibitors.fish,available,44.49,44.49,low,low,10,namesilo,,,02/10/2026 04:01
 f7c04241-ae4c-48d8-8abc-6263c73b893e,burns.fish,available,44.49,44.49,medium,low,5,namesilo,,,25/09/2026 03:46
 829fa038-f6bc-49a3-9948-a2ab1a53a668,cacomistle.fish,available,44.49,44.49,medium,low,10,namesilo,,,22/09/2026 12:02
 94ce0cec-1b92-488c-b3dd-a393ae1f9246,denying.fish,available,44.49,44.49,medium,low,7,namesilo,,,28/09/2026 11:30
 4c458fc7-812c-4c9e-a735-cb0d3c1ead68,auditions.fish,available,44.49,44.49,medium,low,9,namesilo,,,30/09/2026 16:27
+18452240-b853-4c8e-be45-dd21ce7bb859,ipcc.fish,available,8.24,36.6,high,low,4,dynadot,,,01/10/2026 10:49
 99d6b330-a58f-49ce-b1c4-731453f43cac,motherly.fish,available,14.99,56.99,high,low,8,name.com,,,25/08/2026 07:06
 a261ac99-b88e-450c-b256-5cad17947369,zoonotic.fish,available,44.49,44.49,medium,low,8,namesilo,,,13/09/2026 15:35
 95c042d4-3e8b-4a2b-b1a2-e931ccd1ce83,manifested.fish,available,34.2,34.2,medium,low,10,cloudflare,,,30/09/2026 06:51
-d65df4cf-cd24-43bf-b4a8-f38fda63b3f0,underestimate.fish,available,19.99,,medium,low,13,name.com,,,
+d65df4cf-cd24-43bf-b4a8-f38fda63b3f0,underestimate.fish,available,36.43,36.43,medium,low,13,spaceship,,,01/10/2026 06:11
 551e0a67-2913-44f1-af80-20d0a099deec,alienating.fish,available,14.99,56.99,medium,low,10,name.com,,,
 98a2afd4-c9e1-4aa0-bc22-b0696ae8775a,shirley.fish,available,46.98,59.98,high,low,7,namecheap,,,25/09/2026 13:56
+3730bc9e-75a0-4ab6-aff9-351aa720d990,stockholders.fish,available,36.43,36.43,medium,low,12,spaceship,,,01/10/2026 18:35
 351b2c1e-3c7e-450b-a21d-e6f3cd55a229,heir.fish,available,46.98,59.98,high,low,4,namecheap,,,28/09/2026 14:24
 5aa5cfa7-e77a-47ca-b266-9dc8c36fb41b,beanbag.fish,available,46.98,59.98,high,low,7,namecheap,,,22/09/2026 20:20
 4ec962f5-8e4a-4326-adfd-5202f8c7ccbd,refinery.fish,available,36.43,36.43,high,low,8,spaceship,,,30/09/2026 02:41
@@ -262,6 +280,7 @@ e9e34891-3d80-4f99-9cca-8e78f25b735b,winterhaven.fish,available,19.99,,medium,lo
 84c62836-3e26-4625-ac65-cb91d43d4e2c,bees.fish,available,46.98,59.98,high,low,4,namecheap,,,18/09/2026 21:40
 1025adf5-f444-4eb1-8303-7661b43fd1e2,differed.fish,available,44.49,44.49,medium,low,8,namesilo,,,20/09/2026 05:03
 cdfe2fc9-b8a0-4cb4-a5e4-117168d76295,spite.fish,available,46.98,59.98,high,low,5,namecheap,,,23/09/2026 22:22
+6830dc7b-e741-4d97-bf98-c501ec8d4165,irkutsk.fish,available,36.43,36.43,medium,low,7,spaceship,,,01/10/2026 09:48
 d30d516c-8323-4b5d-b7f9-58a6f3ab672b,berra.fish,available,44.49,44.49,medium,low,5,namesilo,,,23/09/2026 10:04
 573a55ad-8d88-481a-8b95-04391ede5406,galactic.fish,available,14.99,56.99,high,low,8,name.com,,,18/08/2026 19:35
 92e5f37e-ae6c-4a2f-93fa-d3dc4a3fd262,wares.fish,available,34.2,34.2,medium,low,5,cloudflare,,,30/09/2026 20:59
@@ -269,9 +288,11 @@ d30d516c-8323-4b5d-b7f9-58a6f3ab672b,berra.fish,available,44.49,44.49,medium,low
 fa901792-cae8-4283-8fb3-a887b45a11a4,macintosh.fish,available,36.43,36.43,high,low,9,spaceship,,,01/10/2026 02:55
 408a531c-3760-45d0-86d0-bff191919c15,fury.fish,available,46.98,59.98,high,low,4,namecheap,,,24/09/2026 21:41
 1cc05157-8e2f-4877-ba5a-d86a5d7d7e85,catalogue.fish,available,46.98,59.98,high,low,9,namecheap,,,24/09/2026 13:08
+4b5a5575-8328-4bdb-a4c8-c8e034487b45,bligh.fish,available,44.49,44.49,medium,low,5,namesilo,,,01/10/2026 18:42
 5532527f-c434-464b-a8db-429fca1f83cf,juanita.fish,available,46.98,59.98,medium,low,7,namecheap,,,30/09/2026 04:54
 a114204e-8a11-4826-b22b-de5680a92ce4,gmt.fish,available,36.43,36.43,medium,low,3,spaceship,,,28/09/2026 14:18
 bc4ff8ce-4814-4d2a-bda3-bcf10a9c27b3,softback.fish,available,44.49,44.49,medium,low,8,namesilo,,,05/09/2026 01:13
+70cfc7a8-5b2d-4d6f-9640-e1dd897e518c,aut.fish,available,8.24,35.53,high,low,3,porkbun,,,01/10/2026 23:53
 71ef6d5f-3b9c-4eb5-9f21-d0d18aa56dcd,highlands.fish,available,36.43,36.43,high,low,9,spaceship,,,30/09/2026 10:07
 914df4b4-404d-4a80-851c-58e996562b18,listeners.fish,available,44.49,44.49,medium,low,9,namesilo,,,29/09/2026 17:43
 891db62f-03f5-4537-81a1-962cb6e767eb,observing.fish,available,44.49,44.49,high,low,9,namesilo,,,04/09/2026 00:01
@@ -297,10 +318,12 @@ f83113c3-fc2b-40fe-a887-ae23231fc262,mckinney.fish,available,44.49,44.49,high,lo
 27414ea2-95d0-4a65-8769-580226b75ffa,firework.fish,available,44.49,44.49,high,low,8,namesilo,,,09/09/2026 07:10
 19132097-abf2-4fb3-8863-61bda4b4aca7,madrona.fish,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 01:01
 6364e82d-3593-447a-90ea-d64dd1c6af5a,lerner.fish,available,44.49,44.49,high,low,6,namesilo,,,18/09/2026 01:44
+28d01c71-7cc5-4293-bbaf-3fe03ef1c0c0,kalimantan.fish,available,34.2,34.2,high,low,10,cloudflare,,,01/10/2026 18:45
 95267f02-f312-4c36-a389-47b33366134b,frans.fish,available,8.24,36.6,medium,low,5,dynadot,,,29/09/2026 10:53
 ee209a6e-60e3-493a-b45c-7b8507458dd4,swastika.fish,available,46.98,59.98,medium,low,8,namecheap,,,29/09/2026 21:59
 79769b07-400d-47d0-b80a-79cdcd0c95df,stochastic.fish,available,46.98,59.98,medium,low,10,namecheap,,,10/09/2026 20:50
-c67a1d55-6d89-4a0d-9e2d-f2399aad5a3f,pete.fish,available,19.99,,high,low,4,name.com,,,
+c67a1d55-6d89-4a0d-9e2d-f2399aad5a3f,pete.fish,available,34.2,34.2,high,low,4,cloudflare,,,01/10/2026 19:58
+38c22fc3-5c94-4216-a8c4-95cf45bcfb22,davenport.fish,available,36.43,36.43,high,low,9,spaceship,,,01/10/2026 19:12
 37b2cb81-f102-4f89-98de-6437e1348f23,leibniz.fish,available,36.43,36.43,medium,low,7,spaceship,,,29/09/2026 01:06
 45a99f1b-6079-4cb0-8136-ff71d434f19c,headquarters.fish,available,46.98,59.98,high,low,12,namecheap,,,27/09/2026 02:02
 14a2ac27-7698-45c9-9e0d-2382e58123d7,beauvoir.fish,available,44.49,44.49,high,low,8,namesilo,,,22/09/2026 22:24
@@ -309,11 +332,13 @@ c67a1d55-6d89-4a0d-9e2d-f2399aad5a3f,pete.fish,available,19.99,,high,low,4,name.
 7c585139-1c03-4f33-93f7-c34045d81df6,complex.fish,available,44.49,44.49,high,low,7,namesilo,,,23/09/2026 17:35
 519e3389-fdb8-4b89-ae55-4a58bdbc2be8,strabo.fish,available,36.43,36.43,medium,low,6,spaceship,,,29/09/2026 15:36
 50c1dd57-4d1f-4eaa-96ad-a059ba11ba26,arrival.fish,available,44.49,44.49,high,low,7,namesilo,,,20/09/2026 09:13
+a61107e2-c8ef-4164-a0fc-383ad02d88ca,competitions.fish,premium,68.51,68.51,medium,low,12,spaceship,,,01/10/2026 18:30
 60a3c15d-f996-4f2a-aef2-8333a550c8fc,gilding.fish,available,14.99,56.99,high,low,7,name.com,,,18/08/2026 23:37
 3ac7b364-3240-435a-ab29-b8628aefc545,weimar.fish,available,46.98,59.98,medium,low,6,namecheap,,,26/09/2026 00:31
 2704b706-87b8-4e25-a9d8-e8118fbf1589,narrowly.fish,available,14.99,56.99,medium,low,8,name.com,,,15/09/2026 16:08
 1dfeaeca-f3d9-496e-a2fb-4aaa9e5c0663,cinnamon.fish,available,44.49,44.49,high,low,8,namesilo,,,29/09/2026 07:51
 642eecad-24bd-4d6b-b503-fb7987ebb90b,quavering.fish,available,44.49,44.49,medium,low,9,namesilo,,,09/09/2026 07:44
+056fa824-1838-4e91-a9ec-d702c8dc069b,eyeball.fish,available,36.43,36.43,high,low,7,spaceship,,,02/10/2026 04:47
 8221ac8b-5646-4ebe-b196-62288b885236,deciduous.fish,available,14.99,56.99,medium,low,9,name.com,,,13/08/2026 21:26
 b1ed9742-daec-4fc9-9041-8c4b24d88460,alderfly.fish,available,44.49,44.49,medium,low,8,namesilo,,,18/09/2026 04:32
 66a9ddfe-97e7-46c8-bd63-44852101abe0,scorpion.fish,premium,72.6,72.6,high,low,8,dynadot,,,30/09/2026 02:48
@@ -321,6 +346,7 @@ f5fb860e-409a-40b6-8bbc-af6d4325b881,plenteous.fish,available,14.99,56.99,high,l
 864e4578-e637-4b5b-ac04-f21e191eb57b,albula.fish,available,44.49,44.49,high,low,6,namesilo,,,18/09/2026 03:24
 c66c9df2-4783-416d-b259-0d43bdf0f731,bournemouth.fish,premium,78.54,78.54,high,low,11,namesilo,,,29/09/2026 21:53
 d3aa9017-203d-4606-bb0e-9954c6c78dd6,instructions.fish,available,44.49,44.49,high,low,12,namesilo,,,25/09/2026 16:47
+d35b7b03-6c04-4808-a690-06d1310af2a4,ritter.fish,available,36.43,36.43,high,low,6,spaceship,,,01/10/2026 22:24
 c2212fa6-32e3-46d7-9590-d15919e45eaa,bharat.fish,available,44.49,44.49,high,medium,6,namesilo,,,23/09/2026 12:37
 51b69598-f6b5-4567-bb84-0cb7d30975c4,vile.fish,available,14.99,56.99,medium,low,4,name.com,,,14/08/2026 04:01
 1e29b276-37fb-4b43-ac16-3cc65f654448,thresher.fish,available,44.49,44.49,medium,low,8,namesilo,,,18/09/2026 13:23
@@ -335,6 +361,7 @@ be8d252d-10d9-43c7-97ee-570da2da014a,apoplectic.fish,available,14.99,56.99,mediu
 ad5264c7-17ae-4f9b-88a6-152fe4464590,tris.fish,available,36.43,36.43,high,low,4,spaceship,,,30/09/2026 12:39
 264eecf5-06aa-4a61-8078-df9b7dd6fd88,abuja.fish,available,46.98,59.98,medium,low,5,namecheap,,,16/09/2026 18:50
 f2e1312d-d657-44c6-99b8-27f4cedad722,rutledge.fish,available,44.49,44.49,medium,low,8,namesilo,,,29/09/2026 01:29
+a8075176-a4dd-43d4-bcef-66371777302a,hopkinson.fish,available,44.49,44.49,medium,low,9,namesilo,,,02/10/2026 04:57
 5b1b822e-c825-43d7-a0ed-2892e62471ed,unbalanced.fish,available,14.99,56.99,medium,low,10,name.com,,,11/08/2026 01:50
 77f2b8f3-fccf-4f1c-a1bc-8fc1255a15e5,diagnosed.fish,available,44.49,44.49,medium,low,9,namesilo,,,28/09/2026 23:36
 9f86071c-b11b-4e97-98f7-cffb8a1ecbbd,pearce.fish,available,34.2,34.2,high,low,6,cloudflare,,,29/09/2026 15:07
@@ -351,16 +378,20 @@ cd1f7143-8fb2-4d8f-9d92-fde21cf6b692,called.fish,available,19.99,,high,low,6,nam
 e9b5ff7f-7910-41d3-bdc7-9889fa0f7966,anecdote.fish,available,44.49,44.49,high,low,8,namesilo,,,19/09/2026 05:07
 06425247-47d9-4c71-a769-de3e7dd561fa,fossil.fish,premium,78.54,78.54,high,medium,6,namesilo,,,18/08/2026 13:05
 2fc6759d-9c09-44e3-b830-db7b72a33fd4,discussing.fish,available,44.49,44.49,medium,low,10,namesilo,,,27/09/2026 11:01
+f10d207c-4ad5-4ee1-a118-77f70d1d4bb3,pesticide.fish,available,8.24,35.53,high,low,9,porkbun,,,01/10/2026 21:15
 c7178712-281e-4586-bbaa-8d4e6bf8aeec,backs.fish,available,46.98,59.98,medium,low,5,namecheap,,,18/09/2026 06:41
 36b6c513-72dc-4711-bfc8-d2eb1a182e7b,evasive.fish,available,14.99,56.99,medium,low,7,name.com,,,17/08/2026 14:47
+939aa42b-4ed3-4927-a96f-c6a149586091,vineyards.fish,available,44.49,44.49,medium,low,9,namesilo,,,01/10/2026 17:18
+49b1b11e-4842-4c64-9d20-3460d7422184,mfr.fish,available,36.43,36.43,high,low,3,spaceship,,,01/10/2026 07:03
 d27867db-eac6-4090-b021-581ae837da80,nodding.fish,available,14.99,56.99,high,low,7,name.com,,,12/08/2026 00:48
+a66ee9f2-a918-4589-a997-a3b87eeeb859,shortcomings.fish,available,8.24,36.6,low,low,12,dynadot,,,02/10/2026 02:52
 66266d59-86cd-4a63-a055-2bf3e57ee8a0,heracles.fish,available,44.49,44.49,high,low,8,namesilo,,,18/09/2026 04:03
 b0d051b4-cab4-4c56-b0cb-6ff2f107b9e1,thereby.fish,available,44.49,44.49,medium,low,7,namesilo,,,16/09/2026 08:39
 2f5a86a8-e68d-4496-88da-7a12bf164b2c,deceitful.fish,available,14.99,56.99,medium,low,9,name.com,,,13/08/2026 21:06
 ee1f1740-9d5a-4f20-88d6-257c9980b30f,planter.fish,available,36.43,36.43,high,low,7,spaceship,,,30/09/2026 18:21
 84b651d5-b198-4890-9e6b-86a280094843,cunningham.fish,available,44.49,44.49,high,low,10,namesilo,,,25/09/2026 04:27
 423061de-bd47-44e6-a736-d0dd6b67375d,cashed.fish,available,14.99,56.99,high,low,6,name.com,,,11/08/2026 20:15
-a0be496e-b814-4356-a204-2cebffdd50f5,assessment.fish,available,44.49,44.49,high,low,10,namesilo,,,28/09/2026 06:37
+a0be496e-b814-4356-a204-2cebffdd50f5,assessment.fish,available,36.43,36.43,high,low,10,spaceship,,,01/10/2026 16:34
 2d73c232-f95c-49f2-9a42-307382f910f2,tapestry.fish,available,46.98,59.98,high,low,8,namecheap,,,20/09/2026 08:48
 5d021993-7a90-435f-9dee-4cac57ad2ca2,fourfold.fish,available,14.99,56.99,high,low,8,name.com,,,18/08/2026 13:28
 a766f278-fbf9-4f86-84a7-9c49b9bfec44,clitoris.fish,available,44.49,44.49,high,low,8,namesilo,,,24/09/2026 15:48
@@ -375,6 +406,7 @@ efb7e2c5-6fe6-4469-b868-35e1d2b90bc0,abject.fish,available,14.99,56.99,medium,lo
 61374756-16e1-4fc1-b46f-0bf1ec30f08c,josephus.fish,available,8.24,36.6,medium,low,8,dynadot,,,28/09/2026 09:47
 cae8038c-f8bd-48e7-ad9d-0bf8de3015e7,unconfined.fish,available,44.49,44.49,medium,low,10,namesilo,,,12/09/2026 06:03
 9776c67e-6f0d-441e-8489-ac4698ba1fc9,aboard.fish,available,34.2,34.2,high,low,6,cloudflare,,,28/09/2026 11:33
+e957cb34-f788-4583-abda-6a3bfa1dd541,lured.fish,available,36.43,36.43,medium,low,5,spaceship,,,01/10/2026 18:14
 a6c35179-1225-479b-87d0-ccb82137121e,dad.fish,premium,250,250,high,low,3,name.com,,,27/09/2026 05:02
 a852b5cc-19e6-4063-9985-e5300f0a8cd7,rides.fish,available,44.49,44.49,medium,low,5,namesilo,,,17/09/2026 06:42
 f65ca262-e424-4a74-805a-5fd54971a101,tombs.fish,available,8.24,36.6,medium,low,5,dynadot,,,30/09/2026 05:23
@@ -390,6 +422,7 @@ f3aca9c7-2809-466b-8d07-344581b76b4f,morgantown.fish,available,44.49,44.49,mediu
 bf559fc6-ebab-4306-afe2-e5222330f155,prone.fish,available,44.49,44.49,medium,low,5,namesilo,,,27/09/2026 07:37
 c8fdfd3f-f97b-43aa-84ae-6eef9058c0e9,drawback.fish,available,44.49,44.49,medium,low,8,namesilo,,,24/09/2026 23:54
 12db3525-019e-49ce-bb90-0c49f1df048e,sacredly.fish,available,44.49,44.49,medium,low,8,namesilo,,,15/09/2026 23:01
+eb24c4d7-c3ff-4d0e-b4b3-497dff5dc3ee,foothills.fish,available,44.49,44.49,medium,low,9,namesilo,,,02/10/2026 02:25
 438fb06c-e265-483a-bb07-1a80719fe505,acetate.fish,available,46.98,59.98,high,low,7,namecheap,,,17/09/2026 00:03
 54ce2d88-b1a6-4af2-b53b-48b987e4c8e1,rapist.fish,available,36.43,36.43,high,low,6,spaceship,,,30/09/2026 10:57
 030d499e-31f8-4acc-b09e-d9f1c6b7dcd3,treed.fish,available,14.99,56.99,medium,low,5,name.com,,,07/08/2026 11:13
@@ -413,7 +446,7 @@ a9b17ff7-7d4c-43da-ac68-39fc4e98411a,meditative.fish,available,14.99,56.99,high,
 15a035a1-f4f0-4779-bffa-9e9c655a89c6,demetrius.fish,available,36.43,36.43,medium,low,9,spaceship,,,29/09/2026 00:39
 64b36686-3700-4cb5-ab58-87348a01cef7,xci.fish,available,14.99,56.99,medium,low,3,name.com,,,
 8fa24cbe-77db-42d6-92f1-4e4f52452db3,subtly.fish,available,44.49,44.49,medium,low,6,namesilo,,,16/09/2026 07:33
-e5557040-2049-486b-bb66-2dd6a9fe8dce,integrate.fish,available,36.43,36.43,high,low,9,spaceship,,,28/09/2026 06:58
+e5557040-2049-486b-bb66-2dd6a9fe8dce,integrate.fish,available,44.49,44.49,high,low,9,namesilo,,,01/10/2026 17:05
 d8e5e43d-f765-4c5e-827a-431543b78ec8,lexical.fish,available,14.99,56.99,medium,low,7,name.com,,,23/08/2026 00:42
 7c6283eb-4e25-4917-b237-1f14bfdd0d34,tenth.fish,available,44.49,44.49,high,low,5,namesilo,,,21/09/2026 11:17
 1e7e9729-6b68-4a59-8ac7-31777e4a199d,valmy.fish,available,46.98,59.98,medium,low,5,namecheap,,,22/09/2026 16:13
@@ -421,10 +454,11 @@ a9c43de8-f4d3-468c-b075-29daf935a77d,swaggie.fish,available,44.49,44.49,medium,l
 cb33098e-0a70-4b75-9098-ed373c1a5c0f,horne.fish,available,8.24,36.6,high,low,5,dynadot,,,27/09/2026 14:08
 fcbcdd59-68f4-47f3-8975-be71d958d8a6,deadlines.fish,available,44.49,44.49,medium,low,9,namesilo,,,21/09/2026 08:50
 08896a8a-459b-4784-9f2d-d0ac258862f9,scrub.fish,available,44.49,44.49,high,low,5,namesilo,,,27/09/2026 18:50
+f6eefb8b-2a60-478a-9717-99dca53c4d67,recife.fish,available,36.43,36.43,high,low,6,spaceship,,,01/10/2026 21:15
 1ac0d4de-650e-4862-993b-9f6712c51d79,semiliquid.fish,available,44.49,44.49,medium,low,10,namesilo,,,10/09/2026 03:07
 c759951b-8931-42db-9c96-6cccb3a37b55,gainly.fish,available,14.99,56.99,medium,low,6,name.com,,,18/08/2026 19:33
 f6660c7c-d03b-4a4e-bc1d-aa2e4ad58862,folks.fish,available,44.49,44.49,high,low,5,namesilo,,,24/09/2026 16:34
-5cca17ad-2b45-4f55-80e1-7b26dd50f901,trade.fish,premium,78.54,78.54,high,medium,5,namesilo,,,30/09/2026 02:52
+5cca17ad-2b45-4f55-80e1-7b26dd50f901,trade.fish,premium,68.51,68.51,high,medium,5,spaceship,,,02/10/2026 01:34
 564c3c1d-52fe-49aa-86b6-52ebb65ada86,alphabetic.fish,available,44.49,44.49,high,low,10,namesilo,,,22/09/2026 02:10
 c82a8913-8df0-4b90-a83e-588949453caf,neurogenic.fish,available,44.49,44.49,medium,low,10,namesilo,,,03/09/2026 16:12
 143abc45-22ad-405e-9d90-5530de970f1d,sane.fish,available,46.98,59.98,high,low,4,namecheap,,,19/09/2026 15:46
@@ -456,6 +490,7 @@ a4a3ce15-87de-4648-a34e-5a53020c1386,accepts.fish,available,8.24,36.6,medium,low
 a51378be-c668-4592-a0ca-ca9eec444779,sterilized.fish,available,46.98,59.98,medium,low,10,namecheap,,,10/09/2026 20:11
 704f1c1a-da19-45a2-abee-b308d2e47a07,complicated.fish,available,44.49,44.49,high,low,11,namesilo,,,01/10/2026 01:52
 cff6d0e9-50c0-4136-a772-074d03981fb2,images.fish,available,36.43,36.43,high,low,6,spaceship,,,27/09/2026 22:08
+32c4a74c-a56a-4828-8c27-c4f47a9f2655,kei.fish,available,34.2,34.2,medium,low,3,cloudflare,,,01/10/2026 10:28
 86af2eef-7aae-4eb1-86f3-97f376d512d5,league.fish,available,36.43,36.43,high,low,6,spaceship,,,30/09/2026 02:33
 a333bbb3-f446-4858-99e8-287d969fa9b3,signal.fish,available,36.43,36.43,high,medium,6,spaceship,,,27/09/2026 22:11
 874e0479-a295-440d-bbfb-d379713b146a,threescore.fish,available,14.99,56.99,medium,low,10,name.com,,,
@@ -472,6 +507,7 @@ a4ee8841-1b68-4bd0-93f5-68d7879981af,barmaid.fish,available,44.49,44.49,high,low
 6c025140-3c53-464d-a08c-ca9a5e4e0680,denomination.fish,available,44.49,44.49,medium,low,12,namesilo,,,30/09/2026 22:29
 9275ccf2-afe8-430d-8a66-2c08dcd7e998,deadlifts.fish,available,44.49,44.49,medium,low,9,namesilo,,,21/09/2026 05:50
 88cd7c94-2513-4004-9de1-096172741680,comedians.fish,available,44.49,44.49,medium,low,9,namesilo,,,19/09/2026 23:33
+4ddafe86-7633-4d8b-80b7-a0db51711266,broadcasts.fish,available,34.2,34.2,medium,low,10,cloudflare,,,01/10/2026 17:52
 6bc316b5-0177-4d10-9ad6-e1948447a9de,brookline.fish,available,36.43,36.43,medium,low,9,spaceship,,,29/09/2026 10:05
 e7c7180e-8cdf-4423-8425-0edbab4ded2d,manchester.fish,premium,42.9,42.9,high,low,10,namecheap,,,28/09/2026 19:49
 dbbb4206-f408-4809-afcb-2a8c387abfdc,evaporate.fish,available,34.2,34.2,high,low,9,cloudflare,,,30/09/2026 19:17
@@ -507,6 +543,7 @@ d57e5b86-056d-48fe-80a1-ca443ccb751c,literatim.fish,available,44.49,44.49,medium
 e441cd88-9ae3-452e-9c53-f97b5f47d229,extant.fish,available,14.99,56.99,high,low,6,name.com,,,17/08/2026 18:56
 6e4a2c11-4465-408c-b12c-fb88bb87ac8b,vocalic.fish,available,44.49,44.49,medium,low,7,namesilo,,,13/09/2026 06:26
 c900c6d5-7382-4906-9286-eff26a3b11ba,suggesting.fish,available,36.43,36.43,high,low,10,spaceship,,,27/09/2026 17:56
+12b79ec5-b78f-467a-be86-703904f922ca,hosted.fish,available,46.98,59.98,medium,low,6,namecheap,,,02/10/2026 02:16
 f4ffa438-ed89-475c-8474-78cdbbe94c03,cynic.fish,available,46.98,59.98,medium,low,5,namecheap,,,24/09/2026 20:49
 6a79cf37-c35b-4343-b953-4d0c3a8e561f,barak.fish,available,34.2,34.2,medium,low,5,cloudflare,,,30/09/2026 20:54
 3f50b568-59d6-4412-8eb8-ceb0732c3d24,federico.fish,available,36.43,36.43,medium,low,8,spaceship,,,28/09/2026 07:57
@@ -523,7 +560,7 @@ b486fcae-19cb-4935-ad78-bdfc47d5f733,sexist.fish,available,44.49,44.49,medium,lo
 65f5d124-942c-4d01-95cb-7644fd145a17,sichuan.fish,available,44.49,44.49,medium,low,7,namesilo,,,28/09/2026 15:21
 c028ed7d-7d1a-48a3-940b-3aff947ab22a,infect.fish,available,8.24,35.53,high,low,6,porkbun,,,30/09/2026 11:23
 a33446b1-9bf1-493b-8ac5-b9ae4043709a,interact.fish,available,36.43,36.43,high,low,8,spaceship,,,30/09/2026 20:24
-f35ec822-25c4-400d-a7c4-ba63fb23ea69,acknowledged.fish,available,19.99,,high,low,12,name.com,,,
+f35ec822-25c4-400d-a7c4-ba63fb23ea69,acknowledged.fish,available,44.49,44.49,high,low,12,namesilo,,,01/10/2026 22:30
 779d61ff-593d-485f-a730-ab189ff03eb0,botchy.fish,available,14.99,56.99,medium,low,6,name.com,,,10/08/2026 20:53
 7b8ced39-2ab9-4bca-94b0-878bb221fc57,trainee.fish,available,8.24,36.6,high,low,7,dynadot,,,29/09/2026 20:32
 c3b831a6-96f6-40f2-8436-e19ad744604a,lowly.fish,available,14.99,56.99,medium,low,5,name.com,,,08/08/2026 21:38
@@ -556,6 +593,7 @@ d8d8b7fa-357a-471d-a968-d0cb94ec969c,hats.fish,premium,242,242,high,low,4,namesi
 8b294d45-d424-4859-986d-5a4ab5c6a5f8,ear.fish,premium,78.54,78.54,high,low,3,namesilo,,,29/09/2026 17:25
 3280361d-b53f-4254-ab0c-c61d9f442bc6,trials.fish,available,46.98,59.98,medium,low,6,namecheap,,,18/09/2026 17:43
 ee83ca31-adc5-4dee-ae96-4529ab50a89d,paula.fish,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 14:33
+4448df3d-f550-4fdc-9633-b1b35bacce60,receivers.fish,available,8.24,36.6,medium,low,9,dynadot,,,01/10/2026 18:30
 dfd3bb36-606c-4902-a199-260a9120fd39,compton.fish,premium,38.94,38.94,high,low,7,namesilo,,,20/09/2026 10:47
 eba986ed-35af-4af6-98f8-2d31eb91e7f2,consequence.fish,available,36.43,36.43,high,low,11,spaceship,,,28/09/2026 15:40
 43d30679-77c0-4865-bb59-986d5441d448,shouter.fish,available,44.49,44.49,medium,low,7,namesilo,,,22/09/2026 17:05
@@ -573,12 +611,14 @@ fe1c120a-6533-4698-b71c-c0a5913219ef,oval.fish,available,44.49,44.49,high,low,4,
 3d6d4c30-20dd-48a4-b7d8-99847ef0f6b0,spectacled.fish,available,14.99,56.99,medium,low,10,name.com,,,09/08/2026 17:20
 dbf1a957-a71b-4836-b6cb-f6f904cdb443,arbitrager.fish,available,44.49,44.49,medium,low,10,namesilo,,,20/09/2026 00:30
 3e712931-5021-4633-8fe4-84313e1e17b1,feminine.fish,available,46.98,59.98,high,low,8,namecheap,,,24/09/2026 17:35
+5a4bd8c3-cf67-425a-b764-9e9c5ff73ed0,hurling.fish,available,36.43,36.43,medium,low,7,spaceship,,,01/10/2026 20:01
 770a9cb6-74aa-42f1-8a45-368c5d8f2778,unredeemed.fish,available,46.98,59.98,medium,low,10,namecheap,,,12/09/2026 17:55
 d1a864ae-7f2c-4d17-87a8-d3e54c127c01,obscure.fish,available,14.99,56.99,high,low,7,name.com,,,05/08/2026 21:59
 4a2fab9d-29a8-4462-8a61-9fea365ee675,hydrolysis.fish,available,46.98,59.98,medium,low,10,namecheap,,,01/10/2026 02:39
 e861ef03-0b6b-4689-b03d-99aaa8f0ada8,inexplicit.fish,available,14.99,56.99,medium,low,10,name.com,,,21/08/2026 22:39
 44783ca7-a1bf-453e-b9d9-9e562d865200,coequal.fish,available,14.99,56.99,medium,low,7,name.com,,,12/08/2026 15:22
 36e56694-1a7e-4998-83c3-2b04b0f1d3e6,politic.fish,available,44.49,44.49,high,low,7,namesilo,,,08/09/2026 23:06
+ef2e7649-c7d8-4f3d-97d5-38e00034a4c1,northwood.fish,available,44.49,44.49,medium,low,9,namesilo,,,02/10/2026 01:04
 a51c2af3-3be8-4477-834f-da79e0fed563,tetrad.fish,available,14.99,56.99,medium,low,6,name.com,,,
 8b3dc38f-dff1-4b08-8ea7-451ed77e59ee,testosterone.fish,available,44.49,44.49,high,low,12,namesilo,,,29/09/2026 10:23
 e1f15c4d-0cf7-447d-90d1-c4ec13c5159f,aba.fish,available,14.99,56.99,high,low,3,name.com,,,16/09/2026 13:42
@@ -625,7 +665,7 @@ bccbe931-5d97-4135-acca-5f77eb9ee74b,predicates.fish,available,34.2,34.2,low,low
 00b9d733-4990-4d03-9a70-6fdf38879d67,fumbling.fish,available,14.99,56.99,medium,low,8,name.com,,,11/08/2026 10:05
 953d5096-9714-4979-a1b4-7425e747cd8a,devote.fish,available,46.98,59.98,high,low,6,namecheap,,,30/09/2026 18:31
 7d643c65-a822-429b-b14e-dd93102d3612,prolonged.fish,available,14.99,56.99,high,low,9,name.com,,,14/08/2026 18:34
-d21476f9-1101-45ab-b4bd-fcc6237eaadc,things.fish,available,8.24,36.6,high,low,6,dynadot,,,28/09/2026 05:47
+d21476f9-1101-45ab-b4bd-fcc6237eaadc,things.fish,available,36.43,36.43,high,low,6,spaceship,,,01/10/2026 13:56
 f22023c1-de42-4313-aefa-c729c93ede7b,dazzled.fish,available,14.99,56.99,medium,low,7,name.com,,,13/08/2026 18:57
 5e3d96fe-0342-4a8b-ad56-5dad2a7976cf,ivy.fish,available,36.43,36.43,high,low,3,spaceship,,,29/09/2026 10:26
 8dbf63ca-c16d-41ce-aaad-10d9e01fbd94,unearthly.fish,available,14.99,56.99,medium,low,9,name.com,,,16/08/2026 02:28
@@ -639,7 +679,7 @@ fac82cc3-93ec-41d2-a9b3-e9b73cf1c448,intern.fish,available,36.43,36.43,high,low,
 d66d9a20-7f3e-4997-8cd5-2f6746a406b6,portraits.fish,available,34.2,34.2,medium,low,9,cloudflare,,,30/09/2026 00:16
 7a995b79-4a86-406e-ada1-45e18a6ebf91,emmett.fish,available,8.24,36.6,medium,low,6,dynadot,,,28/09/2026 08:01
 88524cb3-d44c-47e7-9a62-789c326a82c3,confiscated.fish,available,44.49,44.49,low,low,11,namesilo,,,29/09/2026 11:03
-7e32af6a-8cb9-470e-b2ad-770896839fa3,interviewee.fish,available,19.99,,medium,low,11,name.com,,,
+7e32af6a-8cb9-470e-b2ad-770896839fa3,interviewee.fish,available,8.24,36.6,medium,low,11,dynadot,,,01/10/2026 06:07
 cd58e2b2-1b60-4dd0-ad4b-22c6dd1f35e6,vern.fish,available,44.49,44.49,medium,low,4,namesilo,,,30/09/2026 22:22
 32a77f7d-164a-4e2a-9800-88e09d116827,hypertonic.fish,available,14.99,56.99,medium,low,10,name.com,,,21/08/2026 16:56
 639b15d5-fee7-490e-9c38-df581140308a,mighty.fish,available,14.99,56.99,high,low,6,name.com,,,24/08/2026 22:43
@@ -663,10 +703,13 @@ ba80108c-0f5d-4eae-b840-040030e768e6,fenestral.fish,available,14.99,56.99,medium
 95e5281e-6ca0-40bc-9fe5-e95d6263a6fe,lent.fish,available,36.43,36.43,high,low,4,spaceship,,,28/09/2026 14:42
 da3f4e36-8abc-4f34-aa3a-20486ed4b95c,haired.fish,available,14.99,56.99,medium,low,6,name.com,,,20/08/2026 22:09
 4c36a613-4335-46ab-abea-c3d9436255f7,switching.fish,available,8.24,36.6,high,low,9,dynadot,,,28/09/2026 06:49
+c94debed-53b4-466d-b013-a58db0c06f8d,libre.fish,available,36.43,36.43,high,low,5,spaceship,,,01/10/2026 22:14
 e3e3de52-c03b-48bd-9e5c-2d565f905854,marcia.fish,available,46.98,59.98,high,low,6,namecheap,,,28/09/2026 03:56
 be1835ce-5757-42d9-87e4-7487b669f44b,fairview.fish,available,44.49,44.49,medium,low,8,namesilo,,,28/09/2026 16:52
+ecf2a21b-23c7-4c9a-aadc-0124dd07de74,sociological.fish,available,44.49,44.49,high,low,12,namesilo,,,02/10/2026 01:58
 4b3263f0-c0ef-4307-b91e-97676dd9fa03,libidinous.fish,available,14.99,56.99,medium,low,10,name.com,,,22/08/2026 20:09
 04106f7c-1b50-4e1c-918c-e80c31954d9f,computerized.fish,available,44.49,44.49,high,low,12,namesilo,,,28/09/2026 02:46
+7dbe04fb-eafc-449b-bc97-d8aaf90e3f24,zuckerman.fish,available,36.43,36.43,medium,low,9,spaceship,,,02/10/2026 00:34
 ebdcd1ac-283b-421e-911a-4f5442d8ea82,holding.fish,available,36.43,36.43,high,low,7,spaceship,,,29/09/2026 02:03
 1b7ca552-ebac-467e-8760-845b28f3bd77,slashing.fish,available,44.49,44.49,medium,low,8,namesilo,,,10/09/2026 10:08
 1102100d-e5f3-4f17-97d8-b119e0888cf5,backseat.fish,available,44.49,44.49,high,low,8,namesilo,,,21/09/2026 15:49
@@ -677,6 +720,7 @@ f150b92e-b5f4-4aee-ae54-45748c5a4a8a,mortified.fish,available,14.99,56.99,medium
 eb7fe750-8bfb-4c44-8439-a617854281f6,valuator.fish,available,46.98,59.98,medium,low,8,namecheap,,,19/09/2026 22:13
 095468b2-e5b8-461c-9ff4-ed372cb3ba87,fosamax.fish,available,44.49,44.49,medium,low,7,namesilo,,,18/09/2026 05:11
 23588b20-9cec-468e-aa40-8c200133fb15,skies.fish,available,46.98,59.98,medium,low,5,namecheap,,,18/09/2026 07:49
+60928c36-11bb-4c1d-a324-928eaf64564e,loreto.fish,available,36.43,36.43,medium,low,6,spaceship,,,01/10/2026 18:38
 942e5e5d-14d3-44cb-a6a5-63a5a3bfcb24,opencut.fish,available,44.49,44.49,medium,low,7,namesilo,,,04/09/2026 16:10
 0fd3b33d-c04f-48ec-9d58-a0e91d031766,excites.fish,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 13:19
 d6ba09bf-7991-45a6-9221-c1385061de9f,bottle.fish,available,44.49,44.49,high,low,6,namesilo,,,24/09/2026 07:30
@@ -690,6 +734,7 @@ b471da30-0c69-4682-ae65-e29f34dcfb46,endoergic.fish,available,14.99,56.99,medium
 c5931aa3-6fa3-426e-8c09-f3f7e00cc4b2,firebug.fish,available,14.99,56.99,medium,low,7,name.com,,,22/08/2026 00:57
 c475611a-f9cd-48a9-a74e-d5b5b8ce6d77,unlicensed.fish,available,44.49,44.49,medium,low,10,namesilo,,,11/09/2026 23:37
 88036662-2f09-4463-8880-8ca661b67cfb,davidson.fish,available,46.98,59.98,high,low,8,namecheap,,,25/09/2026 15:02
+0dfe15dc-8ec3-488a-9c2c-d69dc7ef3946,arian.fish,available,36.43,36.43,high,low,5,spaceship,,,01/10/2026 22:48
 20e39b7e-3c0d-485c-88c9-924d6b20b9a2,convincing.fish,available,44.49,44.49,high,low,10,namesilo,,,23/09/2026 22:56
 05ec02c5-a9aa-4d61-a81b-9cabbf4a6fd4,trajectory.fish,available,8.24,36.6,high,low,10,dynadot,,,29/09/2026 20:33
 71c6ba8d-5ff6-4957-bc50-6df9d2d53d50,paving.fish,available,8.24,35.53,high,low,6,porkbun,,,01/10/2026 03:16
@@ -745,11 +790,12 @@ d582d0f5-8a1a-4db4-b065-cb37dc3180a6,bouncing.fish,available,44.49,44.49,high,lo
 48d77304-582f-4872-bc1b-1c9e663ebea0,jacobs.fish,available,36.43,36.43,high,low,6,spaceship,,,28/09/2026 20:14
 59646a35-879a-4c18-b70c-5d024c6101a3,nurture.fish,available,44.49,44.49,high,low,7,namesilo,,,09/09/2026 11:05
 17610122-50a5-47c5-bcc0-55719a91c415,prick.fish,available,14.99,56.99,medium,low,5,name.com,,,08/08/2026 23:38
-ad944c87-9f2c-42c0-a7be-11213770ed11,nickelodeon.fish,available,19.99,,high,low,11,name.com,,,
+ad944c87-9f2c-42c0-a7be-11213770ed11,nickelodeon.fish,available,36.43,36.43,high,low,11,spaceship,,,01/10/2026 22:22
 2c686134-98c1-4562-9b13-8ea5ae1510a8,benet.fish,available,44.49,44.49,high,low,5,namesilo,,,23/09/2026 07:58
 a083aa3a-9f4b-4077-8b29-08a351e312b3,unload.fish,available,36.43,36.43,high,low,6,spaceship,,,29/09/2026 08:24
 0c03d194-818e-45c7-9495-e3222da17433,burman.fish,available,44.49,44.49,high,low,6,namesilo,,,01/10/2026 04:44
 8ccfc745-1108-4fb4-9964-9ad6abef8de8,nescient.fish,available,14.99,56.99,medium,low,8,name.com,,,21/08/2026 18:29
+127cf50e-0f3d-4467-a54a-53a70e8205d8,deteriorate.fish,available,46.98,59.98,medium,low,11,namecheap,,,01/10/2026 22:25
 26020d0c-be32-4cf1-9307-0381f87083c5,pleb.fish,available,46.98,59.98,medium,low,4,namecheap,,,08/09/2026 21:04
 7f7d8c24-52f0-4d34-9ca9-d281d72ed269,germanium.fish,available,46.98,59.98,medium,low,9,namecheap,,,20/09/2026 22:51
 e4ab405f-3296-4382-ac81-7cbc02ea4e0f,occipital.fish,available,44.49,44.49,medium,low,9,namesilo,,,04/09/2026 00:11
@@ -781,6 +827,7 @@ f3d2d87f-b6bb-4a4f-9e0c-ee903d6c8ffc,peer.fish,available,46.98,59.98,high,low,4,
 5ec128bd-3ee6-4c65-a8d9-ec1322d270ed,anciently.fish,available,44.49,44.49,medium,low,9,namesilo,,,13/09/2026 19:42
 06243cbc-b03d-46da-9117-24b79a362036,internship.fish,available,44.49,44.49,high,low,10,namesilo,,,28/09/2026 10:09
 1805eb86-e8c3-49ec-9583-e9e06b1bc0df,sparks.fish,premium,118.8,118.8,high,low,6,namesilo,,,28/09/2026 12:19
+a167b72f-0556-490a-9415-516246e3049a,janie.fish,available,46.98,59.98,high,low,5,namecheap,,,01/10/2026 08:49
 822780fc-120f-47f1-a97b-5fa741a1c3dc,puzzlement.fish,available,44.49,44.49,medium,low,10,namesilo,,,21/09/2026 17:39
 9e72a99b-9372-474f-bac4-012c7b28c1b0,moldable.fish,available,14.99,56.99,medium,low,8,name.com,,,25/08/2026 03:42
 6b524ea5-40e0-4c55-9a03-a98223dd6d09,spotlessly.fish,available,44.49,44.49,medium,low,10,namesilo,,,16/09/2026 06:37
@@ -790,6 +837,7 @@ f3d2d87f-b6bb-4a4f-9e0c-ee903d6c8ffc,peer.fish,available,46.98,59.98,high,low,4,
 8709e55b-8794-4c9e-a89f-328ce6570338,achaea.fish,available,44.49,44.49,medium,low,6,namesilo,,,17/09/2026 00:27
 5e7c85e7-9006-445b-9e96-8ef5045f94b8,rhomboidal.fish,available,44.49,44.49,medium,low,10,namesilo,,,09/09/2026 16:49
 ff8da91f-e35b-46f4-b244-c8c4740c83ed,clipboards.fish,available,44.49,44.49,medium,low,10,namesilo,,,20/09/2026 11:59
+9ee5be1a-0768-41fa-8203-26b7e8b72130,honeycomb.fish,available,44.49,44.49,high,low,9,namesilo,,,02/10/2026 05:20
 156c803b-2cd2-4c02-91ba-175d5bfd67b2,gari.fish,available,44.49,44.49,high,low,4,namesilo,,,23/09/2026 22:55
 89cc14e4-8a68-4a7e-a2dc-c4d700ada6c9,allelic.fish,available,14.99,56.99,medium,low,7,name.com,,,
 29d98f67-aba3-4c26-abc3-22766c60df35,maximilian.fish,available,14.99,56.99,high,low,10,name.com,,,27/09/2026 07:16
@@ -804,12 +852,14 @@ e81c69b6-dd10-4f62-b29b-3be6809cfd71,nonaligned.fish,available,44.49,44.49,mediu
 1581a9f7-cd08-4347-9771-5a9f86dec52a,verbose.fish,available,14.99,56.99,medium,low,7,name.com,,,24/08/2026 09:27
 f1cf073d-d84b-4ed8-b0fb-51f54afd213d,mathematics.fish,available,36.43,36.43,high,low,11,spaceship,,,30/09/2026 13:34
 49e47e65-996c-4f82-bf7c-20f637c149db,sacrificing.fish,available,44.49,44.49,medium,low,11,namesilo,,,30/09/2026 14:38
+95d1538e-7f8f-4db7-a089-91adc247e25b,mtdna.fish,available,44.49,44.49,high,low,5,namesilo,,,01/10/2026 15:59
 c6fbe96d-f9c7-449d-8819-973a460576f8,decently.fish,available,14.99,56.99,medium,low,8,name.com,,,13/08/2026 21:14
 f920e7e0-4cb2-4962-8d2b-d0365a6396f4,graphite.fish,available,44.49,44.49,high,low,8,namesilo,,,24/09/2026 01:02
 fa37cb62-46b0-4f64-b6f8-a26c8b050310,paths.fish,available,44.49,44.49,medium,low,5,namesilo,,,18/09/2026 10:52
 e2ca0881-de8c-431f-97d2-d920b69bf0ff,weightless.fish,available,44.49,44.49,high,low,10,namesilo,,,13/09/2026 10:09
 8b4fa707-bfa8-459a-a89c-80f5e52fb73f,cymose.fish,available,14.99,56.99,medium,low,6,name.com,,,13/08/2026 13:57
 d1521e0f-6657-4482-bfe0-a293bb54e053,fisher.fish,available,46.98,59.98,high,low,6,namecheap,,,24/09/2026 00:24
+dd3e5966-29c1-42a3-b5c5-d9c0caa2aab6,gunnison.fish,available,44.49,44.49,medium,low,8,namesilo,,,01/10/2026 12:09
 6fd3ea8c-6fb2-4a64-bc62-5e069b60581a,spanking.fish,available,14.99,56.99,high,low,8,name.com,,,11/08/2026 04:33
 36f2cf5a-5ecd-47ae-8905-d639bb06552e,klondike.fish,available,36.43,36.43,high,low,8,spaceship,,,30/09/2026 17:48
 e9ce3575-a5d2-47db-8690-665f2fe9debf,partial.fish,available,44.49,44.49,high,low,7,namesilo,,,08/09/2026 02:01
@@ -861,6 +911,7 @@ a030bfce-7452-48c4-bfcc-3dc80c3d15b7,reason.fish,available,44.49,44.49,high,low,
 ff95815c-2644-462c-8e87-d3d2b17330e3,kanagawa.fish,available,44.49,44.49,high,low,8,namesilo,,,30/09/2026 05:13
 02d5535e-8008-4c27-a415-27001eb37e9c,mildred.fish,available,36.43,36.43,medium,low,7,spaceship,,,28/09/2026 12:04
 c0cd54cc-a995-4203-8e35-62b1b8fab5b9,pictorial.fish,available,14.99,56.99,high,low,9,name.com,,,23/08/2026 01:46
+d360b784-d31a-4de0-a65a-c9cb506d9403,osu.fish,available,36.43,36.43,high,low,3,spaceship,,,01/10/2026 11:42
 11927c68-43d5-4095-9a8e-0b23c8933187,plier.fish,available,44.49,44.49,medium,low,5,namesilo,,,30/09/2026 07:03
 305b638b-e29d-46b4-a01e-e49734718955,birch.fish,available,14.99,56.99,high,low,5,name.com,,,10/08/2026 05:53
 1df28536-1372-43d1-988d-aea1406c125c,aurous.fish,available,14.99,56.99,medium,low,6,name.com,,,07/08/2026 17:31
@@ -869,6 +920,8 @@ a2d42e20-cf18-43fb-98e4-4065c422b39e,nevada.fish,premium,72.6,72.6,high,low,6,dy
 1e103483-75c5-4b89-9008-d4cdb2739fd6,floaty.fish,available,14.99,56.99,high,low,6,name.com,,,11/08/2026 10:08
 da78cb2c-8018-4a55-b002-28e5c039889e,gains.fish,available,46.98,59.98,medium,low,5,namecheap,,,18/09/2026 18:50
 85292ba3-17bb-4825-80ca-edcb5752f8f7,elegantly.fish,available,44.49,44.49,medium,low,9,namesilo,,,14/09/2026 15:17
+be6a8662-e206-4216-81ef-01f3c9be96b3,brevard.fish,available,36.43,36.43,medium,low,7,spaceship,,,01/10/2026 11:57
+6662a8c8-495e-4191-bfe6-050867b7da5c,discouraging.fish,available,34.2,34.2,medium,low,12,cloudflare,,,01/10/2026 22:56
 1f726574-d37b-4ec9-9884-b4efbe75ff4a,stomp.fish,available,8.24,35.53,high,low,5,porkbun,,,30/09/2026 18:50
 6888914f-e3d4-4e37-967d-bf92217cb6a1,consecrate.fish,available,14.99,56.99,high,low,10,name.com,,,12/08/2026 22:25
 9d39d388-839a-493c-882c-6f3d1ec6d113,neighbors.fish,available,44.49,44.49,high,low,9,namesilo,,,18/09/2026 09:55
@@ -877,7 +930,9 @@ da78cb2c-8018-4a55-b002-28e5c039889e,gains.fish,available,46.98,59.98,medium,low
 1efb00fe-8ead-4ca0-b89f-307a57662ddc,kathryn.fish,available,14.99,56.99,high,low,7,name.com,,,27/09/2026 07:34
 3217f1cd-5d63-419c-84cf-31504b0c860b,transferring.fish,available,36.43,36.43,high,low,12,spaceship,,,28/09/2026 16:00
 98da8851-61d6-477a-8845-a199a754a08c,creature.fish,available,44.49,44.49,high,low,8,namesilo,,,22/09/2026 04:42
+e0a92491-63d6-4597-b029-f4ae402aaf3a,coowner.fish,available,44.49,44.49,medium,low,8,namesilo,,,01/10/2026 15:31
 e61d7e20-3050-4fbd-8cd9-1d9b23dc2b01,dolly.fish,available,36.43,36.43,high,low,5,spaceship,,,27/09/2026 13:05
+ea2d8a65-91e7-45af-a029-b0435c310fee,paws.fish,available,36.43,36.43,high,low,4,spaceship,,,01/10/2026 12:31
 f569e537-6ccf-447c-89d0-6144453f7410,moo.fish,available,44.49,44.49,high,low,3,namesilo,,,25/09/2026 12:11
 234d34fe-b9cc-478e-bbd3-37a31d6f04fd,rav.fish,available,46.98,59.98,high,low,3,namecheap,,,30/09/2026 04:18
 c8ef753d-ac2d-4af9-b692-3a72fa3d6348,mariah.fish,available,44.49,44.49,high,low,6,namesilo,,,30/09/2026 04:14
@@ -928,74 +983,19 @@ e20ad705-2040-4365-8c5c-2ca01de8f13d,leopold.fish,available,44.49,44.49,medium,l
 67718d6f-b980-4e77-9f1f-a9d26f8a95f6,scrunch.fish,available,14.99,56.99,medium,low,7,name.com,,,13/08/2026 07:18
 5867b1a3-4a65-4284-9c77-088f4e6f1fec,filled.fish,available,46.98,59.98,high,low,6,namecheap,,,24/09/2026 18:13
 376421c6-925b-4fe0-81e9-9bf351443ba7,governance.fish,available,14.99,56.99,high,low,10,name.com,,,20/08/2026 17:22
+869b5852-8305-4d7f-af49-9343ee75b59f,harvested.fish,available,34.2,34.2,medium,low,9,cloudflare,,,01/10/2026 14:36
 36e7e91e-0249-4571-b644-b57287cdd2f7,vault.fish,available,44.49,44.49,high,medium,5,namesilo,,,22/09/2026 02:40
 1e2948c8-4ee9-4540-9807-9621e695f6f9,investors.fish,available,19.99,56.99,high,low,9,name.com,,,
+65d8f6b0-33d4-46e8-83b5-c4633129cf51,carcass.fish,available,36.43,36.43,medium,low,7,spaceship,,,01/10/2026 18:54
 20e476f2-33ec-42f6-bbc1-0742a0df7807,unerasable.fish,available,14.99,56.99,medium,low,10,name.com,,,22/08/2026 02:39
 6e68b38a-505a-4218-939d-d358efefc9bb,cyberspace.fish,available,44.49,44.49,high,low,10,namesilo,,,28/09/2026 08:02
 34b257ee-cc92-4cff-bcc4-72fb67d28dc6,nero.fish,available,46.98,59.98,high,low,4,namecheap,,,25/09/2026 23:29
 91516c00-97d2-4962-ab9d-4a71f0340e2f,soho.fish,available,44.49,44.49,high,low,4,namesilo,,,01/10/2026 03:44
 1d0253e3-694f-44a5-9350-6121ce7e4ea2,division.fish,available,46.98,59.98,high,low,8,namecheap,,,28/09/2026 19:33
+6f5f68bc-c0e5-426e-bc4c-2b3d946c443e,absalom.fish,available,44.49,44.49,medium,low,7,namesilo,,,01/10/2026 23:58
 e964ee3e-bdb2-431e-9966-0687bdc58c7d,bang.fish,available,34.2,34.2,high,low,4,cloudflare,,,28/09/2026 13:18
 c03b47fe-44f8-41ea-baf0-23635e23a1ef,prakash.fish,available,34.2,34.2,medium,low,7,cloudflare,,,29/09/2026 15:19
 3353add1-1d8a-484d-99f8-4df6417bbc3b,garza.fish,available,34.2,34.2,high,low,5,cloudflare,,,28/09/2026 21:33
 2a679db9-6d9a-4c03-b4ca-929caf50a28c,receiver.fish,available,44.49,44.49,high,low,8,namesilo,,,28/09/2026 10:40
 1fabfbbc-718e-4a6e-bd11-6172ad7f34a1,mentality.fish,available,46.98,59.98,medium,low,9,namecheap,,,29/09/2026 06:09
 12ded075-043f-4d6e-80fe-f48a2a4191a6,winifred.fish,available,44.49,44.49,medium,low,8,namesilo,,,28/09/2026 21:52
-66d32d42-c4c5-4ca4-a489-df8d893e74fb,quota.fish,available,34.2,34.2,high,low,5,cloudflare,,,29/09/2026 07:55
-2cb7388a-0155-4aea-b515-bfe6febed744,cantabile.fish,available,14.99,56.99,medium,low,9,name.com,,,11/08/2026 17:38
-e88c8ea9-c770-47c4-af4c-122a9f274462,sobbing.fish,available,8.24,35.53,medium,low,7,porkbun,,,30/09/2026 02:55
-af9d5b24-5dd1-4db6-b314-b586f490388a,lungs.fish,available,44.49,44.49,medium,low,5,namesilo,,,27/09/2026 02:43
-22ed0d87-2c10-477e-b9da-4be96438ba26,macbook.fish,available,,,high,high,7,,,,
-833f4ee3-65d6-4443-b7ec-6f1a3b1a4e84,retreated.fish,available,36.43,36.43,high,low,9,spaceship,,,30/09/2026 02:43
-535dade4-0a66-4f89-9400-0ea075f6e1bb,zipper.fish,available,44.49,44.49,high,low,6,namesilo,,,01/10/2026 03:44
-fc4721af-53ed-42c1-a756-6783db42af58,aten.fish,available,46.98,59.98,medium,low,4,namecheap,,,20/09/2026 20:04
-b26f5fd9-46e7-48d0-9cce-824d3bd6d973,tailless.fish,available,14.99,56.99,medium,low,8,name.com,,,05/08/2026 21:33
-de8e5f70-c95b-499f-93e1-07400bc328ca,disagreed.fish,available,8.24,35.53,low,low,9,porkbun,,,29/09/2026 16:32
-34d3a497-5265-48ba-8a90-fef31ab145f8,chilly.fish,available,14.99,56.99,high,low,6,name.com,,,12/08/2026 05:30
-5e04aa4a-aa4d-491f-9dd0-0c982d579dc9,allergenic.fish,available,14.99,56.99,medium,low,10,name.com,,,
-81c72c95-e68d-4afd-9ad7-ee40f467a672,wasteland.fish,available,14.99,56.99,medium,low,9,name.com,,,08/08/2026 21:11
-bd3ff7bb-7c97-4ad1-8945-fae9c5ae4add,wolfbane.fish,available,44.49,44.49,medium,low,8,namesilo,,,17/09/2026 02:09
-378e26c6-ed42-4fae-8dac-e3aaee9770e6,octad.fish,available,14.99,56.99,medium,low,5,name.com,,,
-8e34638a-4026-4019-9ae1-33dc80622495,mournfully.fish,available,44.49,44.49,medium,low,10,namesilo,,,15/09/2026 15:33
-0a333518-367d-48ff-8ca4-e7c82a6a6040,fighter.fish,premium,78.54,78.54,medium,low,7,namesilo,,,09/08/2026 13:34
-ed6c8bce-ca75-4efb-9460-9e6bbaacb849,improvise.fish,available,46.98,59.98,high,low,9,namecheap,,,21/09/2026 16:45
-9bea7bbb-2d20-4264-bdf7-a512ce181d50,survival.fish,available,8.24,35.53,high,low,8,porkbun,,,27/09/2026 14:56
-41010b2b-dab2-4c57-a1e0-6ab5763a60b0,atole.fish,available,44.49,44.49,medium,low,5,namesilo,,,20/09/2026 21:52
-22919260-3387-41bd-b8e3-30b761d7f5cb,pickaback.fish,available,44.49,44.49,medium,low,9,namesilo,,,15/09/2026 19:48
-44775750-67fa-4336-b191-04a35852abe6,fleshly.fish,available,14.99,56.99,medium,low,7,name.com,,,
-629fac5a-6516-4030-9b76-a37fc4943813,allan.fish,available,36.43,36.43,high,low,5,spaceship,,,28/09/2026 16:24
-0833519b-7a7f-46eb-bdd4-e055ca0ec004,gunner.fish,available,44.49,44.49,high,low,6,namesilo,,,20/09/2026 11:48
-73c4bb2d-bc4b-4f8b-aac4-9602aff7f2e0,grinder.fish,available,14.99,56.99,medium,low,7,name.com,,,25/08/2026 03:40
-f2f11d57-7efd-4b95-b79d-77c6ff44e713,ram.fish,available,46.98,59.98,high,low,3,namecheap,,,20/09/2026 05:25
-aaa9e7fd-06a5-410d-9a89-f328ebbb448b,florid.fish,available,14.99,56.99,medium,low,6,name.com,,,07/08/2026 17:26
-af45c6a6-9faf-4a82-af90-452159664ef2,collector.fish,available,44.49,44.49,high,low,9,namesilo,,,16/09/2026 23:18
-63dd7923-4fe5-488f-92af-0ae1b8719ad5,propaganda.fish,available,44.49,44.49,high,low,10,namesilo,,,28/09/2026 15:08
-07f49148-7e26-41be-86fc-de8d444a2d06,implication.fish,available,44.49,44.49,high,low,11,namesilo,,,29/09/2026 22:52
-d0660882-b310-4454-8f07-42aa50475eaf,nuisance.fish,available,46.98,59.98,medium,low,8,namecheap,,,29/09/2026 19:51
-7dd625ac-7493-48ce-84a2-6435e8a8a75b,odium.fish,available,44.49,44.49,medium,low,5,namesilo,,,16/09/2026 15:27
-3629115b-d082-417c-be31-c1c15d80bdee,eccles.fish,available,34.2,34.2,medium,low,6,cloudflare,,,29/09/2026 06:42
-7bd0ddf1-ff7c-4168-bdf2-ec8335d58890,hash.fish,available,36.43,36.43,high,medium,4,spaceship,,,29/09/2026 01:16
-8b8a2bb9-4e22-4fb5-9b13-d4b60f0395eb,smarting.fish,available,44.49,44.49,medium,low,8,namesilo,,,10/09/2026 11:48
-4e5f4cd1-531b-4283-b72b-5bdf922b1bf3,unnamed.fish,available,44.49,44.49,medium,low,7,namesilo,,,03/09/2026 12:56
-f2a12e2d-8610-4bd3-8de2-d3aab0354b75,frick.fish,available,44.49,44.49,medium,low,5,namesilo,,,29/09/2026 01:01
-46dd2855-54d4-4d24-a4c8-c8365a59abf1,italian.fish,available,14.99,56.99,high,low,7,name.com,,,22/08/2026 11:36
-5aef611f-f4bb-43a7-85a9-b74c33e59b25,bothersome.fish,available,14.99,56.99,medium,low,10,name.com,,,
-fcf6b865-9d5a-4490-a53e-e2d2f5aaa128,lade.fish,available,14.99,56.99,medium,low,4,name.com,,,22/08/2026 18:36
-1463ab8f-4c94-4cc3-9276-b9ff547299da,modishly.fish,available,44.49,44.49,medium,low,8,namesilo,,,15/09/2026 15:15
-0b130c0c-bb73-4e0e-a8d6-79369d903dfd,granular.fish,available,14.99,56.99,medium,low,8,name.com,,,12/08/2026 06:52
-349a3228-14a0-455b-8fe4-118f1975fb3e,abrogation.fish,available,44.49,44.49,medium,low,10,namesilo,,,16/09/2026 17:14
-c7be4b1d-6b86-44d5-a261-b75904c7019d,anatomist.fish,available,44.49,44.49,medium,low,9,namesilo,,,19/09/2026 03:32
-d9ff7fbf-85be-4779-bc6b-3367927d9e13,reprobate.fish,available,14.99,56.99,medium,low,9,name.com,,,14/08/2026 02:38
-75d6db30-2f6f-4f84-971d-f2e1ec8b53ef,decayable.fish,available,14.99,56.99,medium,low,9,name.com,,,13/08/2026 20:54
-748cf79b-7b75-4d44-803d-5552e6cf84d2,browne.fish,available,44.49,44.49,high,low,6,namesilo,,,20/09/2026 10:27
-2b9ec4e3-6553-462f-b690-e74c6da91913,protector.fish,available,44.49,44.49,high,low,9,namesilo,,,28/09/2026 13:52
-719abfc0-4a2d-471c-befe-6a02836e9913,retailing.fish,available,36.43,36.43,high,low,9,spaceship,,,01/10/2026 03:16
-65846b4d-f4e3-4115-908f-36517e64edbb,encased.fish,available,14.99,56.99,medium,low,7,name.com,,,11/08/2026 20:06
-369051e7-1376-43c3-b9b6-21b6cd3ba90e,ungentle.fish,available,44.49,44.49,medium,low,8,namesilo,,,12/09/2026 11:11
-5843ba2a-18c2-4dfe-b350-e758ab818f7b,valiantly.fish,available,44.49,44.49,medium,low,9,namesilo,,,16/09/2026 10:36
-29e06ac7-05e2-4fdf-9066-5fefe28467c9,forsyth.fish,available,14.99,56.99,high,low,7,name.com,,,27/09/2026 21:08
-5aff032d-5bd1-46f5-a451-b4c2d74148b3,donetsk.fish,available,46.98,59.98,medium,low,7,namecheap,,,30/09/2026 17:02
-ea916a1a-4af5-4e6c-a106-37b5aad96353,losing.fish,available,44.49,44.49,high,low,6,namesilo,,,25/09/2026 11:49
-f91291e2-3fbb-45eb-8e39-e835aba335ac,anachronic.fish,available,14.99,56.99,medium,low,10,name.com,,,
-8d5f8861-0e3f-4183-b805-bc6d5b2ffb01,aigina.fish,available,44.49,44.49,medium,low,6,namesilo,,,17/09/2026 12:15
-77789d62-5c16-4afd-bbf5-47a3b3b6ac00,aeneid.fish,available,44.49,44.49,medium,low,6,namesilo,,,17/09/2026 12:28
